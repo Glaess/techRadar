@@ -1,2 +1,2 @@
-name;ring;quadrant;isNew;description
-Crossplane;adopt;infrastructure;FALSE;
+name,ring,quadrant,isNew,description
+Crossplane,adopt,infrastructure,FALSE,
